@@ -1,3 +1,5 @@
+# https://github.com/Drnxloc-Dev/AutoLDPlayer
+
 # AutoLDPlayer
 Auto ADB LDPlayer
 Release Bao Gồm
